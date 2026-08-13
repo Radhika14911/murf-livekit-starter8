@@ -1,0 +1,29 @@
+[
+  {
+    "ticket_id": "SS-FD3996",
+    "name": "Radhika",
+    "issue": "Exam stress",
+    "urgency": "High",
+    "language": "English",
+    "follow_up": "Email",
+    "status": "OPEN"
+  },
+  {
+    "ticket_id": "SS-42F265",
+    "name": "Radhika",
+    "issue": "Exam stress",
+    "urgency": "High",
+    "language": "English",
+    "follow_up": "Email",
+    "status": "OPEN"
+  },
+  {
+    "ticket_id": "SS-8F5656",
+    "name": "Radhika",
+    "issue": "Exam stress",
+    "urgency": "High",
+    "language": "English",
+    "follow_up": "Email",
+    "status": "OPEN"
+  }
+]
